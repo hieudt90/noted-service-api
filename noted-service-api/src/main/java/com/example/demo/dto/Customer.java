@@ -20,7 +20,7 @@ public class Customer {
 	private final String postalCode;
 	private final String phone;
 	private final String fax;
-	private final String email;
+	private final String email ;
 
 	@Deprecated
 	protected Customer() {
